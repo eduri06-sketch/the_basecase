@@ -1,0 +1,4 @@
+
+	Rithika,100@nitt.edu,123,ai,microsift,73
+Oswald,oswald@alumni.com,123,ai,microsoft,73
+oswald,oswald@alumni.com,123,ai,ai,73
